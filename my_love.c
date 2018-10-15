@@ -1,9 +1,10 @@
 // I was here today
+// Me Too
 
 #include<graphics.h>
 #include<conio.h>
  
-main()
+int main() //if you dont give a return type it gives a warning while compiling
 {
    int gd = DETECT, gm;
  
