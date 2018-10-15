@@ -1,5 +1,4 @@
 
-//ass like that 
 #include<graphics.h>
 #include<conio.h>
  
